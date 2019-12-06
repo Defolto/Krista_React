@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "esnext",
+    "declaration": true,
+    "module": "commonjs",
+    "outDir": "./lib",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  }
+}
